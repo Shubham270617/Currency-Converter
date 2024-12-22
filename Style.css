@@ -13,6 +13,7 @@ body {
 
 .container {
   background-color: aliceblue;
+  flex-wrap: wrap;
   padding: 2rem;
   border-radius: 1rem;
   min-height: 40vh;
@@ -80,3 +81,4 @@ form button{
     font-size: 1rem;
     cursor: pointer;
 }
+
